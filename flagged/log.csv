@@ -1,3 +1,0 @@
-text,output,flag,username,timestamp
-takes in user text and stores the message according to tags preceded by #,,,,2023-03-31 17:32:33.343254
-A web app that organises user messages using words in the messages that are preceeded by a # symbol,,,,2023-03-31 17:41:25.424194
